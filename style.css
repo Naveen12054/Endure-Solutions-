@@ -1,0 +1,491 @@
+body{
+    overflow-x: hidden;
+   background-color: #07081a;
+}
+.one{
+    margin: 0;
+}
+.q{
+   background-color: white;
+   
+   }
+.heading{
+   
+    font-size: 30px;
+    font-family: monospace;
+    display: flex;
+    background-color: white;
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.heading h1{
+    background-color: gold;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    border-radius: 50%; 
+    letter-spacing: -3.01px;
+}
+.heading img{
+    padding-top: 40px;
+    padding-right:20px ;
+    padding-left: 20px;
+}
+.navbar{
+    display:flex;
+    font-size: 23px;
+    padding-top: 55px;
+    font-weight: bold;
+    margin-left: 0px;
+  
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+  
+}
+.navbar ul{
+    text-transform: capitalize;
+}
+.sub{
+    font-size: 20px;
+    margin-top: 20px;}
+
+.caption{
+    font-size: 30px;
+    padding-left: 120px;
+    padding-top: 30px;
+    margin-right: 30px;
+}
+.content
+{
+    display: flex;
+    color: white;
+    margin-left: 130px;
+    margin-top: 80px;
+}
+.content img
+{
+    width: 400px;
+    height: 400px;
+}
+.buttons{
+    padding-left: 650px;
+    margin: 20px;
+}
+button{
+    background-color: rgb(20, 17, 7);
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    
+    margin-right: 20px;
+}
+.eriq{
+    font-size: 25px;;
+}
+.watch
+{
+    background-color: white;
+}
+.watch h1{
+   font-size: 40px;
+   padding-left: 50px;
+   padding-top: 20px;
+}
+.watch h3{
+    padding-left: 70px;
+}
+.new{
+    background-color: white;
+}
+nav{
+    display: flex;
+    
+}
+.middle{
+    margin-top: 400px;
+}
+#cust{
+    
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-left: 50px;
+}
+#cust h1{
+    font-size: 40px;
+   padding-left: 20px;
+   padding-top: 20px;
+  font-family: cursive;
+  font-weight: bold;
+  color: white;
+}
+#cust nav{
+    padding-left: 300px;
+    padding-top: 0px;
+    color: aqua;
+}
+#cust h6{
+    font-size: 20px;
+    color: white;
+    margin-top: 0px;
+}
+.banner{
+    display: flex;
+    background-color: ;
+    margin-top: 40px;
+}
+.banner h1{
+    font-size: 40px;
+   padding-left: 50px;
+   padding-top: 20px;
+}
+
+.btn{
+    background-color: rgb(230, 206, 159);
+    color: black;
+    margin-left: 100px;
+    font-size: 30px;
+    animation-name: example;
+    animation-duration: 4ms;
+    transition: ease-out;
+    box-shadow: inset 0000 #eb4034;
+}
+.banner ul{
+    margin-left: 50px;
+    margin-bottom: 40px;
+    margin-top: 100px;
+}
+.banner h6{
+    font-size: 40px;
+}
+
+h1{
+    font-family: cursive;
+    margin-top: -5x;
+}
+.round{
+    border-radius: 75%;
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+.yme{
+    border-radius: 30%;
+}
+
+.int{
+   margin-left: 200px;
+    background-color: azure
+} 
+.int h3{
+    margin-left: 100px;
+}
+.same{
+    display: flex;
+}
+
+.whole
+{
+    display: flex;
+    margin-top: 90px;
+}
+.head1 h1
+{
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.left
+{
+    width: 795px;
+    height: 615px;
+    background-color: white;
+    color: #07081a;
+    
+}
+.left h1
+{
+    padding-top: 50px;
+    font-size: 50px;
+    font-weight: bold;    
+}
+.left p
+{
+    font-size: 30px;    
+    margin-left: 170px;
+    margin-top: 50px;
+    line-height: 1.6;
+}
+.right
+{
+    width: 655px;
+    height: 525px;
+    padding-left: 180px;
+    padding-top: 90px;
+    background-color: #07081a;
+    border-color: aqua;
+}
+.right h1{
+padding-left: -15px;
+padding-top: -40px;
+font-size: 50px;
+}
+form
+{
+margin-left: 60px;
+border-width: 1px;
+border: #07081a;
+border-radius: 1%;
+text-align: center;
+}
+#loginbtn
+{
+    margin-left: 10px;
+    margin-top: 25px;
+    background-color: #07081a;
+    border-radius: 80%;
+    width: 80px;
+    color: white;
+}
+.rio 
+{
+border-style:solid  ;
+border-width: 0.3ch;
+padding: 20px;
+width: 300px;
+background-color: white;
+}
+#password
+{
+    height: 50px;
+}
+
+
+.whole
+{
+    display: flex;
+    margin-top: 90px;
+}
+.head1 h1
+{
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.left2
+{
+    width: 795px;
+    height: 615px;
+    background-color: white;
+    color: #07081a;
+    
+}
+.left2 h1
+{
+    padding-top: 50px;
+    font-size: 50px;
+    font-weight: bold;    
+}
+.left2 p
+{
+    font-size: 30px;    
+    margin-left: 170px;
+    margin-top: 50px;
+    line-height: 1.6;
+}
+.right2
+{
+    width: 655px;
+    height: 525px;
+    padding-left: 180px;
+    padding-top: 90px;
+    background-color: #07081a;
+    border-color: aqua;
+}
+.right2 h1{
+padding-left: -15px;
+padding-top: -40px;
+font-size: 50px;
+}
+form
+{
+margin-left: 60px;
+border-width: 1px;
+border: #07081a;
+border-radius: 1%;
+text-align: center;
+}
+#loginbtn
+{
+    margin-left: 10px;
+    margin-top: 25px;
+    background-color: #07081a;
+    border-radius: 80%;
+    width: 80px;
+    color: white;
+}
+.rio 
+{
+border-style:solid  ;
+border-width: 0.3ch;
+padding: 20px;
+width: 300px;
+background-color: white;
+}
+#password
+{
+    height: 50px;
+}
+.whole
+{
+    display: flex;
+    margin-top: 90px;
+}
+.head1 h1
+{
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.left3
+{
+    width: 795px;
+    height: 615px;
+    background-color: white;
+    color: #07081a;
+    
+}
+.left3 h1
+{
+    padding-top: 50px
+    margin-top: ;
+    font-size: 50px;
+    font-weight: bold;    
+}
+.left3 p
+{
+    font-size: 30px;    
+    margin-left: 170px;
+    margin-top: 50px;
+    line-height: 1.6;
+}
+.right3
+{
+    width: 655px;
+    height: 525px;
+    padding-left: 180px;
+    padding-top: 90px;
+    background-color: #07081a;
+    border-color: aqua;
+}
+.right3 h1{
+padding-left: -15px;
+padding-top: -40px;
+font-size: 50px;
+}
+form
+{
+margin-left: 60px;
+border-width: 1px;
+border: #07081a;
+border-radius: 1%;
+text-align: center;
+}
+#loginbtn
+{
+    margin-left: 10px;
+    margin-top: 25px;
+    background-color: #07081a;
+    border-radius: 80%;
+    width: 80px;
+    color: white;
+}
+.rio 
+{
+border-style:solid  ;
+border-width: 0.3ch;
+padding: 20px;
+width: 300px;
+background-color: white;
+}
+#password
+{
+    height: 50px;
+}
+               
+.whole
+{
+    display: flex;
+    margin-top: 90px;
+}
+.head1 h1
+{
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.left4
+{
+    width: 795px;
+    height: 615px;
+    background-color: white;
+    color: #07081a;
+    
+}
+.left4 h1
+{
+    padding-top: 50px
+    margin-top: ;
+    font-size: 50px;
+    font-weight: bold;    
+}
+.left4 p
+{
+    font-size: 30px;    
+    margin-left: 170px;
+    margin-top: 50px;
+    line-height: 1.6;
+}
+.right4
+{
+    width: 655px;
+    height: 525px;
+    padding-left: 180px;
+    padding-top: 90px;
+    background-color: #07081a;
+    border-color: aqua;
+}
+.right4 h1{
+padding-left: -15px;
+padding-top: -40px;
+font-size: 50px;
+}
+form
+{
+margin-left: 60px;
+border-width: 1px;
+border: #07081a;
+border-radius: 1%;
+text-align: center;
+}
+#loginbtn
+{
+    margin-left: 10px;
+    margin-top: 25px;
+    background-color: #07081a;
+    border-radius: 80%;
+    width: 80px;
+    color: white;
+}
+.rio 
+{
+border-style:solid  ;
+border-width: 0.3ch;
+padding: 20px;
+width: 300px;
+background-color: white;
+}
+#password
+{
+    height: 50px;
+}

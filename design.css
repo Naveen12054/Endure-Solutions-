@@ -1,0 +1,40 @@
+body
+{
+    background-color: red;
+}
+.heading{
+    font-size: 30px;
+    font-family: monospace;
+    display: flex;
+    background-color: white;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+.heading h1{
+    background-color: rgba(255, 255, 255, 0.247);
+    border-radius: 20px;
+    padding-right: 20px;
+    padding-left: 15px;
+    letter-spacing: -3.01px;
+}
+.heading img{
+    padding-top: 30px;
+    border-radius: 150px;
+}
+
+.navbar{
+    display:flex;
+    font-size: 23px;
+    padding-top: 55px;
+    font-weight: bold;
+    margin-left: 0px;
+  
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+  
+}
+.navbar ul{
+    text-transform: capitalize;
+}
